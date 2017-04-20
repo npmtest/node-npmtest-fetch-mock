@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ fetch-mock@5.10.0 </tspan>
+<tspan x="10" y="90">  ├── glob-to-regexp@0.3.0 </tspan>
+<tspan x="10" y="106">  ├─┬ node-fetch@1.6.3 </tspan>
+<tspan x="10" y="122">  │ ├─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="138">  │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="154">  │ └── is-stream@1.1.0 </tspan>
+<tspan x="10" y="170">  └─┬ path-to-regexp@1.7.0 </tspan>
+<tspan x="10" y="186">    └── isarray@0.0.1</tspan>
+</text>
+</svg>
